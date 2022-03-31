@@ -1,0 +1,89 @@
+@media only screen and (max-device-width: 480px) {
+    .aaa {
+        background-color: #A4D3DB;
+    }
+
+    .logo {
+        padding-left: 25px;
+        font-size: 30px;
+    }
+
+    .menu {
+        padding-right: 25px;
+    }
+
+    .bbb, .ccc, .ddd, .eee, .fff, .ggg {
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+
+    .wrapper2, .wrapper3, .wrapper5, .wrapper6, .wrapper7{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .gallery-img {
+        padding: 14px;
+    }
+
+    .blog-post {
+        padding: 0;
+    }
+
+    .sub-profil h1 {
+        font-size: 20px;
+    }
+    .sub-profil h3 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .sub-profil p {
+        font-size: 12px;
+    }
+    .img-logo {
+        margin: 10px 0;
+    }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) {
+    .logo {
+        padding-left: 3%;
+        font-size: 30px;
+    }
+
+    .menu {
+        padding-right: 3%;
+    }
+
+    .bbb, .ccc, .ddd, .eee, .fff, .ggg {
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+
+    .wrapper2, .wrapper3, .wrapper5, .wrapper6, .wrapper7{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .gallery-img {
+        padding: 14px;
+    }
+
+    .blog-post {
+        padding: 0;
+    }
+
+    .sub-profil h1 {
+        font-size: 20px;
+    }
+    .sub-profil h3 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .sub-profil p {
+        font-size: 12px;
+    }
+    .img-logo {
+        margin: 10px 0;
+    }
+}
